@@ -1,1 +1,3 @@
-# MachineLearning
+# MachineLearning Learnings
+
+1. Introductions
